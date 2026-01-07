@@ -1,3 +1,10 @@
 {
-  "readableLineLength": false
+  "readableLineLength": false,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "A3",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 90
+  }
 }

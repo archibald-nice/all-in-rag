@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/chapter1/02_preparation.md",
+                "file": "产品经理版RAG学习路线.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02_preparation"
+              "title": "产品经理版RAG学习路线"
             }
           }
         ],
@@ -119,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/chapter1/02_preparation.md",
+                "file": "产品经理版RAG学习路线.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02_preparation 的大纲"
+              "title": "产品经理版RAG学习路线 的大纲"
             }
           },
           {
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/chapter1/02_preparation.md",
+                "file": "产品经理版RAG学习路线.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "02_preparation 的反向链接列表"
+              "title": "产品经理版RAG学习路线 的反向链接列表"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/chapter1/02_preparation.md",
+                "file": "产品经理版RAG学习路线.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "02_preparation 的出链列表"
+              "title": "产品经理版RAG学习路线 的出链列表"
             }
           },
           {
@@ -212,16 +212,33 @@
   },
   "active": "711f54e591de9d60",
   "lastOpenFiles": [
+    "docs/chapter4/12_query_construction.md",
+    "产品经理版RAG学习路线.md",
+    "docs/chapter4/11_hybrid_search.md",
+    "docs/chapter3/10_index_optimization.md",
+    "docs/chapter3/09_milvus.md",
+    "docs/chapter3/08_vector_db.md",
+    "docs/chapter3/07_multimodal_embedding.md",
+    "docs/chapter3/06_vector_embedding.md",
+    "docs/chapter2/05_text_chunking.md",
+    "docs/chapter2/04_data_load.md",
+    "docs/chapter1/virtualenv.md",
+    "docs/chapter1/03_get_start_rag.md",
+    "code/C3/02_langchain_faiss.py.tmp.11604.1767771461033",
+    "code/C2/04_semantic_chunker.py.tmp.11604.1767764306691",
+    "code/C2/03_recursive_character_splitter.py.tmp.11604.1767764194730",
+    "code/C2/02_character_splitter.py.tmp.11604.1767764124240",
+    "code/C2/01_unstructured_example.py.tmp.11604.1767764096649",
+    "code/C1/02_llamaIndex_example.py.tmp.11604.1767764055278",
+    "code/C1/01_langchain_example.py.tmp.11604.1767763622388",
+    "docs/chapter1/02_preparation.md",
     "docs/chapter1/01_RAG_intro.md",
     "docs/chapter1/01_RAG_intro.md.tmp.11604.1767754952562",
     "docs/chapter1/01_RAG_intro.md.tmp.11604.1767754896290",
     "CLAUDE.md",
     "CLAUDE.md.tmp.11604.1767753791655",
-    "CLAUDE.md.tmp.11604.1767753675022",
     "data/C8/cook/dishes/staple/手工水饺.md",
     "copilot/copilot-conversations/Give_me_a_quick_recap_of_activeNote_in_two_sentences.@20260107_102723.md",
-    "copilot/copilot-conversations",
-    "copilot",
     "README.md"
   ]
 }
